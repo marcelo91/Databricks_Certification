@@ -127,7 +127,7 @@ VACUUM tabela_delta RETAIN 168 HOURS;
 Managed Tables
 External tables 
 
-![alt text](image.png)
+![alt text](IMG/image.png)
 
 --- 
 ###### 21/07
@@ -197,6 +197,6 @@ Constraints são adicionados para:
 - Após timeout de inatividade configurado  
 - Quando explicitamente terminada pelo usuário  
 
-![Diagrama de Views](image-2.png)
+![Diagrama de Views](IMG/image-2.png)
 
 # Query Files
